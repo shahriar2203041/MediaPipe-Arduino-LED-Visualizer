@@ -1,8 +1,7 @@
 # CV-LED-Bar-Graph-Control
 
 A real-time system that uses computer vision to count fingers and visualize the result as a bar graph on physical LEDs connected to an Arduino.
-
-video_2025-07-03_21-57-38.gif
+[Project Demo GIF](video_2025-07-03_21-57-38.gif) 
 ---
 
 ## Project Overview
