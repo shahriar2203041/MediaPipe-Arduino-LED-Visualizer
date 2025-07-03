@@ -2,8 +2,7 @@
 
 A real-time system that uses computer vision to count fingers and visualize the result as a bar graph on physical LEDs connected to an Arduino.
 
-![Project Demo GIF]video_2025-07-03_21-57-38.gif
-
+video_2025-07-03_21-57-38.gif
 ---
 
 ## Project Overview
